@@ -16,7 +16,9 @@ Plague Chess is a variant of chess where pieces can be infected by diseases that
 - Paralysis does not spread.
 
 ## Disease Interactions
-Currently, the interaction between The Plague and Paralysis is ambiguous. When a paralyzed piece is infected by The Plague, can it still spread The Plague to its neighbors? This document does not yet specify.
+
+### Plague and Paralysis Interaction
+A paralyzed piece that is infected with The Plague still spreads The Plague to its adjacent squares. Paralysis only prevents movement; it does not prevent the contagious spread of The Plague.
 
 ## Gameplay
 ... (other rules)
